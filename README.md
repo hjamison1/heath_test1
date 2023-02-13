@@ -8,3 +8,4 @@ run in Visual Studio
 
 2.12.2023.18:21.   Well, i figured out i installed Visual studio enterprise, not community, so i can guess that is why i was having so many issues. I wasn't able to get anything past .NET 4.8 to work for creating a Console app. I also didn't realize that is what was slowing down my progress and being able to succeed. I am basicly starting from a fresh install of Visual Studio Community. I do know .NET 7 is installed, because i checked from the command prompt and the dotnet command prompt, then dotnet --info. command.
 2.12.2023.18:42.   linked GitHub with Visual Studio.... created a GitHub repository for C# in Visual Studio
+2.12.2023.18:55.    restart test
